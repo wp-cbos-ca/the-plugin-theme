@@ -1,0 +1,13 @@
+/* theme-8200-rbg-green/css/style.css */
+/* 11/20/2015 18:00 PM */
+
+header {
+    background-color: #b2ca66;
+    color: #333;
+}
+
+header h1 a,
+header h2,
+.menu li a {
+    color: #333;
+}
