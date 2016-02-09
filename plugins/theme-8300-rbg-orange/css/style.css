@@ -1,0 +1,13 @@
+/* theme-8300-rbg-orange/css/style.css */
+/* 11/20/2015 17:55 PM */
+
+.site-header {
+    background-color: #fc9224;
+    color: #333;
+}
+
+.site-header h1 a,
+.site-header h2,
+.menu li a {
+    color: #333;
+}
